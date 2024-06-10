@@ -468,26 +468,53 @@ footer .line{
     background-color: rgb(36, 36, 36);
 }
 
-#imp p,
-#imp h1,
-#imp h2
+#imp h1
 {
-    padding-left: 10%;
+    padding-left: 5%;
     color: aliceblue;
-    font-size: 1.18rem;
+    font-size: 1.8rem;
 }
 
+#imp h2
+{
+    padding-left: 5%;
+    color: aliceblue;
+    font-size: 1.2rem;
+}
+
+#imp p
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    color: aliceblue;
+    font-size: 1rem;
+}
+
+#imp ul
+{
+    padding-left: 13%;
+    padding-right: 5%;
+    color: aliceblue;
+    font-size: 1rem;
+}
+
+
+
 #imp a{
+    margin-left: 5%;
     color: rgb(177, 177, 177);
+    margin-bottom: 3%;
 }
 
 #imp a:hover{
-    color: rgb(209, 208, 208);
+    color: var(--c-brand-light);
 }
 
 #imp button{
-    margin-left: 10%;
-    margin-top: 20px;
+    background-color: #bcbcbc;
+    border: 2px solid black;
+    margin-left: 5%;
+    margin-top: 3px;
     border-radius: 9px;
     width: 147px;
     height: 32px;
@@ -495,5 +522,5 @@ footer .line{
 }
 
 #imp button:hover{
-    background-color: #b3b3b3;
+    background-color: #8a8a8a;
 }
