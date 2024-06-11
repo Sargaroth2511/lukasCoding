@@ -5,6 +5,18 @@
 @import url(../css/satoshi.css);
 
 
+/* Frage: Mediaqueries und zoom !? */
+
+
+/* todoo
+
+boxen umbruch 1200px boxen ungleich hoch.
+
+bis 576px sind sie noch untereinander.. */
+
+/* @media (max-width: 576px){
+    
+} */
 
 @media (max-width: 768px) {
   .navbar-nav {
