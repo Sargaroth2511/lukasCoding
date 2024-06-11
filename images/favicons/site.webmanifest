@@ -1,0 +1,14 @@
+{
+    "name": "LT_coding",
+    "short_name": "LT_coding",
+    "icons": [
+        {
+            "src": "android-chrome-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#393939",
+    "background_color": "#393939",
+    "display": "standalone"
+}
